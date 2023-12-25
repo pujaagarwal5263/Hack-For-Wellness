@@ -3,11 +3,11 @@
 
 # Where is the frontend code?
 Here is the link to frontend repository which has been hosted on Netlify:
-<a href="https://github.com/Manmeet567/MindAIginite">https://github.com/Manmeet567/MindAIginite</a>
+<a href="https://github.com/Manmeet567/MindAIginite" target="_blank">https://github.com/Manmeet567/MindAIginite</a>
 
 # Hosted Link to Project
 Head towards the following link to directly check the project:
-<a href="https://mindaiginite.netlify.app/">https://mindaiginite.netlify.app/</a>
+<a href="https://mindaiginite.netlify.app/" target="_blank">https://mindaiginite.netlify.app/</a>
 
 # How to run the app?
 Setup your virtual environment and run the following command:
