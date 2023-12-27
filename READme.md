@@ -26,7 +26,7 @@ python app.py
 Once the app is up and running the hit this endpoint with above payload: <strong>http://127.0.0.1:5000/predict</strong>
 
 # Data Dictionary 
-The following are the features we'll use to predict our target variable (heart disease or no heart disease)
+The following are the features we'll use to predict our target variable (potential mental health issue or no mental issue at all)
 1. Age - age in years,
 2. Gender - (1 = male; 0 = female),
 3. family_history - (0= No or 1 = yes),
